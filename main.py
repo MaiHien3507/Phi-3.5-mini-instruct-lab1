@@ -4,6 +4,9 @@ from fastapi.middleware.cors import CORSMiddleware
 import nest_asyncio
 import uvicorn
 import threading
+from chatbot_logic import Phi3Chatbot
+
+chatbot = Phi3Chatbot("./config.yaml")
 
 class ChatRequest(BaseModel):
     prompt: str
