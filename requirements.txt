@@ -1,0 +1,17 @@
+accelerate==1.13.0
+fastapi==0.135.1
+omegaconf==2.3.0
+requests==2.32.4
+requests-oauthlib==2.0.0
+requests-toolbelt==1.0.0
+sentence-transformers==5.3.0
+torch @ https://download.pytorch.org/whl/cpu/torch-2.10.0%2Bcpu-cp312-cp312-manylinux_2_28_x86_64.whl
+torchao==0.10.0
+torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.10.0%2Bcpu-cp312-cp312-manylinux_2_28_x86_64.whl
+torchcodec @ https://download.pytorch.org/whl/cpu/torchcodec-0.10.0-cp312-cp312-manylinux_2_28_x86_64.whl
+torchdata==0.11.0
+torchsummary==1.5.1
+torchtune==0.6.1
+torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.25.0%2Bcpu-cp312-cp312-manylinux_2_28_x86_64.whl
+transformers==5.0.0
+uvicorn==0.42.0
