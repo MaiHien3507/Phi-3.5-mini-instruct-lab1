@@ -26,6 +26,7 @@
 {
   "prompt": "Your question here"
 }
+```
 
 ## Video demo
 <div align="center">
