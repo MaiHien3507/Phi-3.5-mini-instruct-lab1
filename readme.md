@@ -26,3 +26,10 @@
 {
   "prompt": "Your question here"
 }
+
+## Video demo
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/f39c408c-34e5-4fa2-90c1-bba83af2001c" width="100%" controls autoplay muted loop>
+  </video>
+</div>
+
