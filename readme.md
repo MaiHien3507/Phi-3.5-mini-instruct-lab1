@@ -1,9 +1,4 @@
 
-
-https://github.com/user-attachments/assets/e4f08020-865b-48f8-891c-a54fe932b1f2
-
-
-
 # Lab 1: Building a Web API with Phi-3.5
 
 ## Sinh viên thực hiện
