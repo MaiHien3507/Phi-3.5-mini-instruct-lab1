@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/e4f08020-865b-48f8-891c-a54fe932b1f2
+
+
+
 # Lab 1: Building a Web API with Phi-3.5
 
 ## Sinh viên thực hiện
@@ -30,7 +36,7 @@
 
 ## Video demo
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/f39c408c-34e5-4fa2-90c1-bba83af2001c" width="100%" controls autoplay muted loop>
+  <video src="https://github.com/user-attachments/assets/4fc33c59-ff63-4133-93d8-8c003bb9fd84" width="100%" controls autoplay muted loop>
   </video>
 </div>
 
